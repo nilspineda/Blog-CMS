@@ -1,7 +1,7 @@
 ---
-title: Nils Anderson Pineda Vargas
+title: Nils Entrada dos
 date: "2022-11-18T22"
-description: a5s64das56d4as56d4a65sd4a5s64dsa564d56.
+description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 ---
 
 Far far away, behind the word mountains, far from the countries Vokalia and
